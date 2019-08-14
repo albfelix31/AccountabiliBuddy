@@ -4,11 +4,11 @@ Contributors: Albert Felix, Madison Velasquez, Aisse Torres, Kevin Marx, Francoi
 
 ## App Concept: 
 
-      iOS app to set goals based on location and track them.
+iOS app to set goals based on location and track them.
 
 ## Tools: 
-     
-     XCode + Swift
+
+XCode + Swift
 
 ## What I learned: 
     
