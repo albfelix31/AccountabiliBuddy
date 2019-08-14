@@ -1,4 +1,4 @@
-# GoalTracker
+# AccountabiliBuddy
 
 Contributors: Albert Felix, Madison Velasquez, Aisse Torres, Kevin Marx, Francois Mukaba
 
@@ -27,4 +27,6 @@ Contributors: Albert Felix, Madison Velasquez, Aisse Torres, Kevin Marx, Francoi
      
       
 ## App Demo:
-      https://drive.google.com/open?id=1HcnIjSWqsoy1p_ZYqIA66eKIa0CK14kJ
+<img src='https://i.imgur.com/vDP9X5V.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='https://drive.google.com/open?id=1HcnIjSWqsoy1p_ZYqIA66eKIa0CK14kJ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
