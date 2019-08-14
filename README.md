@@ -12,7 +12,7 @@ Contributors: Albert Felix, Madison Velasquez, Aisse Torres, Kevin Marx, Francoi
 
 ## What I learned: 
     
-      ### SWE role:
+  ### SWE role:
       How to use MapKit
       How to use CoreLocation
       swift Optionals
@@ -20,7 +20,7 @@ Contributors: Albert Felix, Madison Velasquez, Aisse Torres, Kevin Marx, Francoi
       Delegate Pattern
       Unit Testing
       
-      ### PM role:   
+  ### PM role:   
       How to write an MOA, a spec, user personnas
       How to conduct user studies and user stories
       Agile methodologies
