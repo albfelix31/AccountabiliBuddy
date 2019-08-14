@@ -29,4 +29,5 @@ Contributors: Albert Felix, Madison Velasquez, Aisse Torres, Kevin Marx, Francoi
 ## App Demo:
 <img src='https://i.imgur.com/vDP9X5V.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<img src='https://drive.google.com/open?id=1HcnIjSWqsoy1p_ZYqIA66eKIa0CK14kJ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
