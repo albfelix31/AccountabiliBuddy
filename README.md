@@ -13,17 +13,17 @@ Contributors: Albert Felix, Madison Velasquez, Aisse Torres, Kevin Marx, Francoi
 ## What I learned: 
     
  #### SWE role:
-      - How to use MapKit
-      - How to use CoreLocation
-      - Swift Optionals
-      - Local Storage
-      - Delegate Pattern
-      - Unit Testing
+   - How to use MapKit
+   - How to use CoreLocation
+   - Swift Optionals
+   - Local Storage 
+   - Delegate Pattern
+   - Unit Testing
       
  #### PM role:   
-      - How to write an MOA, a spec, user personnas
-      - How to conduct user studies and user stories
-      - Agile methodologies
+   - How to write an MOA, a spec, user personnas
+   - How to conduct user studies and user stories
+   - Agile methodologies
      
       
 ## App Demo:
